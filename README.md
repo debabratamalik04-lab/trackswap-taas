@@ -46,7 +46,10 @@ cdk deploy
 ```
 Use `simulator/device_simulator.py` to send test telemetry.
 
----
+-----
+Code sharing is restricted in TCS. We can walk you through the code via screen sharing. 
+Please connect with me at my mail id: debabrata.malik@tcs.com
+
 
 ## License
 MIT License © 2025 TrackSwap Contributors

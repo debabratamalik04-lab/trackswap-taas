@@ -6,5 +6,5 @@ generate insights, and reduce downtime.
 
 ----------------------------------------------------------------------------
 
-Code sharing is restricted in TCS. We can walk you through the code via screen sharing. 
-Please connect with me at my mail id: c.subhas@tcs.com
+**Code sharing is restricted in TCS. We can walk you through the code via screen sharing. 
+Please connect with me at my mail id: c.subhas@tcs.com**
